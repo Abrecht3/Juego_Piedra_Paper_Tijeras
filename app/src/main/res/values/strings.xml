@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PiedraPapelTijeras</string>
+
+    <!--Cadenas de resultados-->
+    <string name="gana">Ganaste!!!</string>
+    <string name="empata">empate</string>
+    <string name="pierde">Perdiste!</string>
+    <string name="action_settings">Creditos</string>
+    <string name="creditos">Icons made by By Freepik from www.flaticon.com </string>
+</resources>
